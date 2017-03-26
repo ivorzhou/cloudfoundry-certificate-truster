@@ -6,6 +6,7 @@ and add them to the JVM truststore at the earliest possible time.
 == Dependencies
 
 Include the dependency in your Spring Boot project to activate the certificate truster.
+
 (should clone to local and build to local maven respository first)
 
 === Maven
